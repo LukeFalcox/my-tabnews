@@ -1,5 +1,5 @@
 function Home() {
-  return <div>Estou refazendo o curso do Filipe Deschamps</div>;
+  return <div>TESTE</div>;
 }
 
 export default Home;
